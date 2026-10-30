@@ -1,0 +1,4 @@
+INFO: Application started
+INFO: User logged in
+ERROR: Database connection failed
+INFO: Retrying connection

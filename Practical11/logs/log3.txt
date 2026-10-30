@@ -1,0 +1,3 @@
+INFO: Backup started
+INFO: Backup completed
+INFO: Application stopped
