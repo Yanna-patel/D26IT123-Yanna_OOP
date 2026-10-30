@@ -1,0 +1,4 @@
+# generated at run time - do not commit
+data/
+out/
+*.class

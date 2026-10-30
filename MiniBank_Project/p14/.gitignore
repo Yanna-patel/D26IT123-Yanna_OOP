@@ -1,0 +1,7 @@
+# generated at run time - do not commit
+data/
+out/
+*.class
+out-test/
+lib/
+sources.txt
